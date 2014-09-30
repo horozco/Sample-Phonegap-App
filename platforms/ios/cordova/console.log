@@ -1,0 +1,121 @@
+2014-09-30 16:37:00.784 HelloWorld[38048:425433] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/6BC48942-1C62-4EE7-AA2B-FFF8DEC901B3/Library/Cookies/Cookies.binarycookies
+2014-09-30 16:37:01.297 HelloWorld[38048:425433] Multi-tasking -> Device: YES, App: YES
+2014-09-30 16:37:01.417 HelloWorld[38048:425433] Unlimited access to network resources
+2014-09-30 16:37:01.543 HelloWorld[38048:425433] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 16:37:03.410 HelloWorld[38048:425433] Resetting plugins due to page load.
+2014-09-30 16:37:03.882 HelloWorld[38048:425433] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/6218F448-60E9-42D2-AFB7-C5704C488F8C/HelloWorld.app/www/index.html
+2014-09-30 16:44:28.935 HelloWorld[38273:428860] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/A6C5A4EB-F937-4565-BDE2-6B5327BD7BC3/Library/Cookies/Cookies.binarycookies
+2014-09-30 16:44:29.006 HelloWorld[38273:428860] Multi-tasking -> Device: YES, App: YES
+2014-09-30 16:44:29.017 HelloWorld[38273:428860] Unlimited access to network resources
+2014-09-30 16:44:29.021 HelloWorld[38273:428860] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 16:44:29.360 HelloWorld[38273:428860] Resetting plugins due to page load.
+2014-09-30 16:44:29.413 HelloWorld[38273:428860] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/5323B73B-7DD2-4420-B76E-4FBCB8DEED55/HelloWorld.app/www/index.html
+2014-09-30 16:52:30.803 HelloWorld[38504:432644] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/252C10F2-6B0C-4CF5-915C-33FA584CB2F1/Library/Cookies/Cookies.binarycookies
+2014-09-30 16:52:31.109 HelloWorld[38504:432644] Multi-tasking -> Device: YES, App: YES
+2014-09-30 16:52:31.116 HelloWorld[38504:432644] Unlimited access to network resources
+2014-09-30 16:52:31.118 HelloWorld[38504:432644] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 16:52:31.439 HelloWorld[38504:432644] Resetting plugins due to page load.
+2014-09-30 16:52:31.888 HelloWorld[38504:432644] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/89A1828C-B093-4A15-A531-51C2C51C72BF/HelloWorld.app/www/index.html
+2014-09-30 16:53:05.217 HelloWorld[38687:433558] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/B2DA649B-1A9C-49BA-83AD-3480B57AF436/Library/Cookies/Cookies.binarycookies
+2014-09-30 16:53:05.355 HelloWorld[38687:433558] Multi-tasking -> Device: YES, App: YES
+2014-09-30 16:53:05.363 HelloWorld[38687:433558] Unlimited access to network resources
+2014-09-30 16:53:05.366 HelloWorld[38687:433558] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 16:53:05.649 HelloWorld[38687:433558] Resetting plugins due to page load.
+2014-09-30 16:53:05.737 HelloWorld[38687:433558] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/13A26EF1-FE71-44FD-AE44-AAC27CB84B01/HelloWorld.app/www/index.html
+2014-09-30 16:57:00.758 HelloWorld[38687:435893] Terminating since there is no system app.
+2014-09-30 17:00:12.914 HelloWorld[39162:437891] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/087C21D4-56FF-4A4A-963D-C958B91DA222/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:00:13.038 HelloWorld[39162:437891] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:00:13.047 HelloWorld[39162:437891] Unlimited access to network resources
+2014-09-30 17:00:13.050 HelloWorld[39162:437891] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:00:13.321 HelloWorld[39162:437891] Resetting plugins due to page load.
+2014-09-30 17:00:13.439 HelloWorld[39162:437891] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/2551447A-6501-4A5A-AF0D-5F928ED1FBC1/HelloWorld.app/www/index.html
+2014-09-30 17:05:08.532 HelloWorld[39407:440596] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/D0DCA2F2-9DFA-4B22-9C09-BA8538CDCEF4/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:05:08.625 HelloWorld[39407:440596] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:05:08.634 HelloWorld[39407:440596] Unlimited access to network resources
+2014-09-30 17:05:08.636 HelloWorld[39407:440596] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:05:09.302 HelloWorld[39407:440596] Resetting plugins due to page load.
+2014-09-30 17:05:09.422 HelloWorld[39407:440596] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/1F71D969-EF73-4EEF-858E-DF6D181F7024/HelloWorld.app/www/index.html
+2014-09-30 17:08:19.529 HelloWorld[39627:442563] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/F93747DF-2E34-4A8C-A955-689E0B978FAD/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:08:19.611 HelloWorld[39627:442563] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:08:19.620 HelloWorld[39627:442563] Unlimited access to network resources
+2014-09-30 17:08:19.622 HelloWorld[39627:442563] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:08:19.820 HelloWorld[39627:442563] Resetting plugins due to page load.
+2014-09-30 17:08:19.919 HelloWorld[39627:442563] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/97F42076-6DB3-45DD-BBC4-B7391FFA5011/HelloWorld.app/www/index.html
+2014-09-30 17:10:51.262 HelloWorld[39794:443730] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/93D2D3C0-B266-4440-89AD-E23B38B567FA/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:10:51.386 HelloWorld[39794:443730] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:10:51.394 HelloWorld[39794:443730] Unlimited access to network resources
+2014-09-30 17:10:51.396 HelloWorld[39794:443730] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:10:51.569 HelloWorld[39794:443730] Resetting plugins due to page load.
+2014-09-30 17:10:51.650 HelloWorld[39794:443730] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/B5D05E93-7436-427E-B76E-CB13F516F8B6/HelloWorld.app/www/index.html
+2014-09-30 17:32:59.427 Todo List - Phonegap[40671:453564] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/3BD35FE5-68E6-4A73-8A75-454323BCF194/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:32:59.602 Todo List - Phonegap[40671:453564] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:32:59.611 Todo List - Phonegap[40671:453564] Unlimited access to network resources
+2014-09-30 17:32:59.615 Todo List - Phonegap[40671:453564] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:32:59.822 Todo List - Phonegap[40671:453564] Resetting plugins due to page load.
+2014-09-30 17:32:59.915 Todo List - Phonegap[40671:453564] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/7B9E844F-E967-4620-BC85-C53029346DF4/Todo%20List%20-%20Phonegap.app/www/index.html
+2014-09-30 17:41:45.189 Todo List - Phonegap[40985:457974] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Data/Application/C683BBEF-7A42-4FD8-BAEC-ECF105270D4E/Library/Cookies/Cookies.binarycookies
+2014-09-30 17:41:45.287 Todo List - Phonegap[40985:457974] Multi-tasking -> Device: YES, App: YES
+2014-09-30 17:41:45.294 Todo List - Phonegap[40985:457974] Unlimited access to network resources
+2014-09-30 17:41:45.297 Todo List - Phonegap[40985:457974] 
+
+Started backup to iCloud! Please be careful.
+Your application might rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines"
+You could find it at the following address https://developer.apple.com/icloud/documentation/data-storage/ .
+
+2014-09-30 17:41:45.473 Todo List - Phonegap[40985:457974] Resetting plugins due to page load.
+2014-09-30 17:41:45.567 Todo List - Phonegap[40985:457974] Finished load of: file:///Users/hernan/Library/Developer/CoreSimulator/Devices/9FD848B6-C98B-429F-B1D8-90FDAB57C5B0/data/Containers/Bundle/Application/E42A317A-DC5D-4BA8-B323-9E6BA9F42543/Todo%20List%20-%20Phonegap.app/www/index.html
